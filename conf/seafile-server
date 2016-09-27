@@ -15,7 +15,7 @@ user=www-data
 
 # Change the value of "script_path" to your path of seafile installation
 seafile_dir=SEAFILE_DIR
-script_path=${seafile_dir}/seafile-server-latest
+script_path=${seafile_dir}/seafile-server-*
 seafile_init_log=${seafile_dir}/logs/seafile.init.log
 seahub_init_log=${seafile_dir}/logs/seahub.init.log
 
